@@ -1,6 +1,6 @@
 # 👋 Hi, I’m  Rashmiranjan shaw (@Rashmiranjan07)
 
-A b-tech computer science student with a passion for software development!
+A b-tech computer science student with a passion for software development !
 
 # 👀 Interest:
 - Web and Mobile development, particulary using java full stack .
@@ -9,7 +9,6 @@ A b-tech computer science student with a passion for software development!
 # 🌱  Currently Learning:
 
 - Buliding scalable Android applications , websites .
-- 
 - Java full-stack learning .
 
 # 💞️ Looking to Collaborate On:
