@@ -62,7 +62,7 @@ If you're building with:
 ---
 
 ## 📊 GitHub Stats & Streaks
-<div align="center">
+
 
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
     <img src="https://github-readme-stats.vercel.app/api?username=Rashmiranjan07&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
@@ -73,5 +73,5 @@ If you're building with:
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rashmiranjan07&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
 
-</div>
+
 
