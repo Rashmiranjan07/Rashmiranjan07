@@ -1,29 +1,59 @@
-# 👋 Hi, I’m  Rashmiranjan shaw (@Rashmiranjan07)
+<h1 align="center">👋 Hi, I'm Rashmiranjan Shaw</h1>
 
-A b-tech computer science student with a passion for software development !
+<p align="center">
+🚀 Passionate Web-Developer | 🎓 B-Tech Undergraduate | 🖥️ Tech Enthusiast
+</p>
 
-# 👀 Interest:
-- Web and Mobile development, particulary using java full stack .
-- Exploring cutting-edge technologies and Android developmemt .
+---
 
-# 🌱  Currently Learning:
+## 🧑‍💻 About Me
 
-- Buliding scalable Android applications , websites .
-- Java full-stack learning .
+- 🎓 I'm a B-Tech undergraduate student in Computer Science.
+- 🚀 A tech enthusiast who loves exploring the world of programming.
+- 🌱 Currently diving deeper into **Java-Full Stack**.
+- 💡 I enjoy building creative, scalable, and clean user-centric software.
+- 🧠 Always upskilling and staying updated with new technologies.
 
-# 💞️ Looking to Collaborate On:
+---
 
-- Innovative projects .
+## 🔭 I'm Currently Working On
 
-# 📫 Contact Me:
+- 🌐 Full-stack projects with **Java**.
+- 🧠 Deepening expertise in the **Java full stack** and **backend APIs**.
 
--  Email: heyyrashmiranjan02@gmail.com
+---
+
+## 🤝 Let's Collaborate
+
+If you're building with:  
+🛠️**Java | Html | Css | Javascript | React**  
+- Let's connect and create something cool💥.
+- 📩 Drop a message or connect through links below ⬇️
+
+---
+
+## 📫 Connect With Me
+<p align="center">
   
-# ⚡ Fun Fact:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr_bravestone___/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rashmiranjan-shaw-8333a532a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:heyyrashmiranjan02@gmail.com) 
 
-- I love learning new things all the time ! 
+</p>
 
-<!---
-Rashmiranjan07/Rashmiranjan07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## ⚡ Fun Fact
+
+> ""The more I debug, the sharper I become."" 🐞🚀
+
+---
+
+## 🛠️ Tools & Tech Stack
+<p align="center">
+  
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+</p>
+
+---
+
+## 📊 GitHub Stats & Streaks
