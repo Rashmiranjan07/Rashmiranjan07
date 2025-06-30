@@ -7,8 +7,13 @@
 <!-- Centered Typing SVG + Info -->
 
 <div align="center">
+
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&pause=100&width=435&lines=Web+%26+App+Developer;CSE+Undergraduate;Exploring+Code+%26+Creativity...." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=25&pause=100&width=435&lines=Web+%26+App+Developer;CSE+Undergraduate;Exploring+Code+%26+Creativity..." alt="Typing SVG" />
+  </a>
+
+</div>
+
   </a>
 
   <div align="center">
@@ -20,8 +25,6 @@
   <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify"/>
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-</div>
-
 </div>
 
 </p>
