@@ -13,8 +13,8 @@
 - 🌱 Currently diving deeper into **Java-Full Stack**.
 - 💡 I enjoy building creative, scalable, and clean user-centric software.
 - 🧠 Always upskilling and staying updated with new technologies.
-- 📄 Check out my: [Resume](https://drive.google.com/file/d/1ADNr35887COJKRjHyEqjuBFDEqY50NiG/view)
-- 💼 Check out my: [Portfolio](https://rashmiranjan07.github.io/Portfolio/ )
+- 📄 Check out my : [Resume](https://drive.google.com/file/d/1ADNr35887COJKRjHyEqjuBFDEqY50NiG/view)
+- 💼 Check out my : [Portfolio](https://rashmiranjan07.github.io/Portfolio/ )
 
 
 ---
