@@ -1,33 +1,25 @@
 <h1 align="center">👋 Hi, I'm Rashmiranjan Shaw</h1>
 
+<p align="center">
+  🚀 Passionate Web Developer &nbsp;|&nbsp; 🎓 B.Tech Undergraduate &nbsp;|&nbsp; 🖥️ Tech Enthusiast
+</p>
 
 <p align="center">
-🚀 Passionate Web-Developer | 🎓 B-Tech Undergraduate | 🖥️ Tech Enthusiast
-
-<!-- Centered Typing SVG + Info -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=25&pause=100&width=500&center=true&vCenter=true&lines=Web+Developer;B.Tech+Undergraduate;Exploring+Code+%26+Creativity..." alt="Typing SVG" />
+  </a>
+</p>
 
 <div align="center">
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=25&pause=100&width=435&lines=Web+%26+App+Developer;CSE+Undergraduate;Exploring+Code+%26+Creativity..." alt="Typing SVG" />
-  </a>
-
-</div>
-
-  </a>
-
-  <div align="center">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify"/>
+  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=%2300C7B7" alt="Netlify"/>
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </div>
-
-</p>
 
 ---
 
