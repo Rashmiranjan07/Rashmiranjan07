@@ -99,7 +99,7 @@ If you're building with:
     </tr>
     <tr>
       <td colspan="2" align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rashmiranjan07&layout=compact&langs_count=6&theme=tokyonight&hide_border=false&border_radius=10" 
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rashmiranjan07&layout=compact&langs_count=6&theme=dark&hide_border=false&border_radius=10" 
           width="300" 
           alt="Top Languages" />
       </td>
