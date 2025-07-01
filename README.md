@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Rashmiranjan Shaw</h1>
 
 <p align="center">
-  🚀 Passionate Web Developer &nbsp;|&nbsp; 🎓 B.Tech Undergraduate &nbsp;|&nbsp; 🖥️ Tech Enthusiast
+  <h3> 🚀 Passionate Web Developer &nbsp;|&nbsp; 🎓 B.Tech Undergraduate &nbsp;|&nbsp; 🖥️ Tech Enthusiast </h3>
 </p>
 
 <p align="center">
