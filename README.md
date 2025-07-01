@@ -80,12 +80,31 @@ If you're building with:
 
 ## 📊 GitHub Stats & Streaks
 
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Rashmiranjan07&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
-    <img src="https://nirzak-streak-stats.vercel.app/?user=Rashmiranjan07&theme=dark&hide_border=false" />
-  </div>
+<div align="center" style="background-color: #0d1117; padding: 20px; border-radius: 10px;">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rashmiranjan07&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+  <!-- Container Grid -->
+  <table>
+    <tr>
+      <!-- Left Box: Contribution + Streak -->
+      <td>
+       <img src="https://github-readme-stats.vercel.app/api?username=Rashmiranjan07&theme=dark&hide_border=false&include_all_commits=true&count_private=false" 
+          width="400" 
+          alt="GitHub Streak" />
+      </td>
+      <td>
+       <img src="https://nirzak-streak-stats.vercel.app/?user=Rashmiranjan07&theme=dark&hide_border=false&rank_icon=github&border_radius=10&include_all_commits=true" 
+          width="400" 
+          alt="GitHub Stats" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rashmiranjan07&layout=compact&langs_count=6&theme=tokyonight&hide_border=false&border_radius=10" 
+          width="300" 
+          alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 
-
+</div>
 
