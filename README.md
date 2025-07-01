@@ -108,5 +108,7 @@ If you're building with:
 
 </div>
 
+---
 
+<p align="center">⭐</p>
 
