@@ -109,6 +109,6 @@ If you're building with:
 </div>
 
 ---
-
-<p align="center">⭐</p>
+<p align="center">Like the content !!! </p>
+<p align="center">Please give a ⭐ to the repository you like.😁</p>
 
