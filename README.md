@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hi, I'm Rashmiranjan Shaw</h1>
 
-<p align="center">
+<h3 align="center">
    🚀 Passionate Web Developer &nbsp;|&nbsp; 🎓 B.Tech Undergraduate &nbsp;|&nbsp; 🖥️ Tech Enthusiast
-</p>
+</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
