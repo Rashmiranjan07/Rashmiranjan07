@@ -46,7 +46,7 @@
 ## 🤝 Let's Collaborate
 
 If you're building with:  
-🛠️**Java | Html | Css | Javascript | React | MySQL**  
+🛠️**Java | Html | Css | Javascript | React | MySQL **  
 - Let's connect and create something cool💥.
 - 📩 Drop a message or connect through links below ⬇️
 
