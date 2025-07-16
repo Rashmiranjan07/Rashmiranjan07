@@ -10,16 +10,16 @@
   </a>
 </p>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=%2300C7B7" alt="Netlify"/>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-</div>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Rashmiranjan07?label=Followers&style=social" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/Rashmiranjan07?label=Stars&style=social" alt="GitHub stars" />
+ <img src="https://img.shields.io/badge/Movie%20Lover-%F0%9F%8E%AC-blueviolet" alt="Movie Lover badge" />
+  <img src="https://img.shields.io/badge/Photography%20Lover-%F0%9F%93%B8-lightblue" alt="Photography Lover badge" />
+<img src="https://img.shields.io/badge/B--Tech%20Grad-8.84%20CGPA-success" alt="B-Tech badge" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Rashmiranjan07.yourrepo" alt="Visitors" />
+</p>
+
 
 ---
 
@@ -118,15 +118,10 @@ If you're building with:
 
 
 
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Rashmiranjan07?style=social" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Rashmiranjan07/yourrepo?style=social" alt="Stars" />
-  <img src="https://img.shields.io/badge/Movie-Lover-purple?style=flat&logo=github" alt="Movie Lover" />
-  <img src="https://img.shields.io/badge/B--Tech-Undergraduate-blue" alt="B-Tech Undergraduate" />
-  <img src="https://img.shields.io/badge/8.84-CGPA-brightgreen" alt="CGPA" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Rashmiranjan07.yourrepo" alt="Visitors" />
-</p>
+
+
+
+
 
 
 
