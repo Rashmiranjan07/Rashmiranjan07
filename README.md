@@ -54,22 +54,12 @@ If you're building with:
 
 ## 📫 Connect With Me
 <div align="center">
-
 <p align="center">
-  <a href="mailto:heyyrashmiranjan02@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/rashmiranjan-shaw-8333a532a/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin"/>
-  </a>
-  <a href="https://github.com/Rashmiranjan07" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github"/>
-  </a>
-  <a href="https://www.instagram.com/hyy_rashhh/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
+  <a href="mailto:heyyrashmiranjan02@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="50"/></a>
+  <a href="https://github.com/Rashmiranjan02" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="50"/></a>
+  <a href="https://www.linkedin.com/in/rashmiranjan-shaw-8333a532a/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="50"/></a>
+  <a href="https://www.instagram.com/hyy_rashhh/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="50"/></a>
 </p>
-
 </div>
 
 ---
@@ -124,6 +114,7 @@ If you're building with:
 <p align="center">Please give a ⭐ to the repository you like.😁</p>
 
 ---
+
 
 
 
