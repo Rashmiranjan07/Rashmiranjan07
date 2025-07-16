@@ -14,8 +14,8 @@
 <p align="center">
   <img src="https://img.shields.io/github/followers/Rashmiranjan07?label=Followers&style=social" alt="GitHub followers" />
   <img src="https://img.shields.io/github/stars/Rashmiranjan07?label=Stars&style=social" alt="GitHub stars" />
- <img src="https://img.shields.io/badge/Movie%20Lover-%F0%9F%8E%AC-blueviolet" alt="Movie Lover badge" />
-  <img src="https://img.shields.io/badge/Photography%20Lover-%F0%9F%93%B8-lightblue" alt="Photography Lover badge" />
+<img src="https://img.shields.io/badge/Cinephile-%F0%9F%8E%AC-blueviolet" alt="Cinephile badge" />
+<img src="https://img.shields.io/badge/Photophile-%F0%9F%93%B8-lightblue" alt="Photophile badge" />
 <img src="https://img.shields.io/badge/B--Tech%20Grad-8.84%20CGPA-success" alt="B-Tech badge" />
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Rashmiranjan07.yourrepo" alt="Visitors" />
 </p>
