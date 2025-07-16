@@ -118,4 +118,15 @@ If you're building with:
 
 
 
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Rashmiranjan07?style=social" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Rashmiranjan07/yourrepo?style=social" alt="Stars" />
+  <img src="https://img.shields.io/badge/Movie-Lover-purple?style=flat&logo=github" alt="Movie Lover" />
+  <img src="https://img.shields.io/badge/B--Tech-Undergraduate-blue" alt="B-Tech Undergraduate" />
+  <img src="https://img.shields.io/badge/8.84-CGPA-brightgreen" alt="CGPA" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Rashmiranjan07.yourrepo" alt="Visitors" />
+</p>
+
+
 
