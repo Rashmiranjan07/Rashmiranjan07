@@ -66,7 +66,7 @@ If you're building with:
 
 ## ⚡ Fun Fact
 
-> "I never stop learning ___ every bug is a teacher in disguise!" 🐞🚀
+> "I never stop learning – every bug is a teacher in disguise!" 🐞🚀
 
 ---
 
@@ -86,23 +86,24 @@ If you're building with:
   <!-- Container Grid -->
   <table>
     <tr>
-      <!-- Left Box: Contribution + Streak -->
+      <!-- Left Box: GitHub Stats -->
       <td>
-       <img src="https://github-readme-stats.vercel.app/api?username=Rashmiranjan07&theme=dark&hide_border=false&include_all_commits=true&count_private=false" 
-          width="400" 
-          alt="GitHub Streak" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Rashmiranjan07&theme=dark&hide_border=false&include_all_commits=true&count_private=true" 
+             width="400" 
+             alt="GitHub Stats" />
       </td>
+      <!-- Right Box: GitHub Streak -->
       <td>
-       <img src="https://nirzak-streak-stats.vercel.app/?user=Rashmiranjan07&theme=dark&hide_border=false&rank_icon=github&border_radius=10&include_all_commits=true" 
-          width="400" 
-          alt="GitHub Stats" />
+        <img src="https://nirzak-streak-stats.vercel.app/?user=Rashmiranjan07&theme=dark&hide_border=false" 
+             width="400" 
+             alt="GitHub Streak" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rashmiranjan07&layout=compact&langs_count=6&theme=dark&hide_border=false&border_radius=10" 
-          width="300" 
-          alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rashmiranjan07&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" 
+             width="300" 
+             alt="Top Languages" />
       </td>
     </tr>
   </table>
@@ -114,14 +115,5 @@ If you're building with:
 <p align="center">Please give a ⭐ to the repository you like.😁</p>
 
 ---
-
-
-
-
-
-
-
-
-
 
 
