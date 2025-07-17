@@ -66,7 +66,7 @@ If you're building with:
 
 ## ⚡ Fun Fact
 
-> "I never stop learning every bug is a teacher in disguise!" 🐞🚀
+> "I never stop learning ___ every bug is a teacher in disguise!" 🐞🚀
 
 ---
 
