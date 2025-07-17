@@ -66,7 +66,7 @@ If you're building with:
 
 ## ⚡ Fun Fact
 
-> ""The more I debug, the sharper I become."" 🐞🚀
+> ""I never stop learning every bug is a teacher in disguise!"" 🐞🚀
 
 ---
 
