@@ -9,8 +9,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=25&pause=100&width=500&center=true&vCenter=true&lines=Web+Developer;B.Tech+Undergraduate;Exploring+Code+%26+Creativity..." alt="Typing SVG" />
   </a>
 </p>
-
-
 <p align="center">
   <img src="https://img.shields.io/github/followers/Rashmiranjan07?label=Followers&style=social" alt="GitHub followers" />
   <img src="https://img.shields.io/github/stars/Rashmiranjan07?label=Stars&style=social" alt="GitHub stars" />
@@ -19,8 +17,6 @@
 <img src="https://img.shields.io/badge/B--Tech%20Grad-8.84%20CGPA-success" alt="B-Tech badge" />
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Rashmiranjan07.yourrepo" alt="Visitors" />
 </p>
-
-
 ---
 
 ## 🧑‍💻 About Me
