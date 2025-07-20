@@ -96,9 +96,9 @@ If you're building with:
              alt="GitHub Streak" />
       </td>
     </tr>
-    <tr>
+  <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rashmiranjan07&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" 
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rashmiranjan07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" 
              width="300" 
              alt="Top Languages" />
       </td>
@@ -115,6 +115,8 @@ If you're building with:
   <img src="https://komarev.com/ghpvc/?username=Rashmiranjan07&label=Profile+Views&color=brightgreen&style=flat"/>
 </p>
 
----
 
+
+
+ 
 
