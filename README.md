@@ -41,7 +41,7 @@
       </td>
 <!-- Image Section -->
       <td align="center" valign="top" style="padding: 20px;">
-        <img src="https://github.com/user-attachments/assets/ee02c3d9-fa98-4a6d-aa76-63c699254779" alt="xero-code" width="320" style="border-radius: 10px; border: 1px solid #e0e0e0;" />
+        <img src="https://github.com/user-attachments/assets/ee02c3d9-fa98-4a6d-aa76-63c699254779" alt="xero-code" width="300" style="border-radius: 10px; border: 1px solid #e0e0e0;" />
       </td>
    </tr>
   </table>
