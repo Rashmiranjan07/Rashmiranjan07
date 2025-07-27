@@ -53,10 +53,6 @@ If you're building with:
 
 <!-- Connect With Me -->
 <h2 align="center">📫 Connect With Me</h2>
- <!-- Banner Image -->
-<div align="center">
-  <img src="https://i.imgur.com/bXxIgrd.png" alt="Banner" width="350"/>
-</div>
 
 <div align="center">
 <p align="center">
@@ -125,6 +121,12 @@ If you're building with:
 
 
 
+---
+<div align="center">
+  <img 
+  src="https://github.com/user-attachments/assets/89c95dc4-1655-4164-b2c9-d0374a393232" 
+  alt="xero-code" 
+  style="width: 100%; max-width: 1600px;"
+>
 
-
-
+</div>
