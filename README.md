@@ -22,13 +22,31 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 I'm a B-Tech undergraduate student in Computer Science.
-- 🚀 A tech enthusiast who loves exploring the world of programming.
-- 🌱 Currently diving deeper into **Java-Full Stack**.
-- 💡 I enjoy building creative, scalable, and clean user-centric software.
-- 🧠 Always upskilling and staying updated with new technologies.
-- 📄 Check out my : [Resume](https://drive.google.com/file/d/1ADNr35887COJKRjHyEqjuBFDEqY50NiG/view)
-- 💼 Check out my : [Portfolio](https://rashmiranjan07.github.io/Portfolio/ )
+<div align="center">
+<table>
+  <tr>
+   <td align="left" valign="top" width="60%" style="padding: 20px;">
+      <div style="border: 1px solid #e0e0e0; border-radius: 10px; padding: 20px;">
+        <h3>👋 About Me</h3>
+        <ul>
+          <li>🎓 I'm a B-Tech undergraduate student in Computer Science.</li>
+          <li>🚀 A tech enthusiast who loves exploring the world of programming.</li>
+          <li>🌱 Currently diving deeper into <strong>Java-Full Stack</strong>.</li>
+          <li>💡 I enjoy building creative, scalable, and clean user-centric software.</li>
+          <li>🧠 Always upskilling and staying updated with new technologies.</li>
+          <li>📄 Check out my <a href="https://drive.google.com/file/d/1ADNr35887COJKRjHyEqjuBFDEqY50NiG/view" target="_blank">Resume</a>.</li>
+          <li>💼 Visit my <a href="https://rashmiranjan07.github.io/Portfolio/" target="_blank">Portfolio</a>.</li>
+        </ul>
+      </div>
+    </td>
+    <td align="center" valign="top">
+
+ <img src="https://github.com/user-attachments/assets/ee02c3d9-fa98-4a6d-aa76-63c699254779" alt="xero-code" width="320"/>
+
+</td>
+  </tr>
+</table>
+</div>
 
 
 ---
@@ -54,7 +72,6 @@ If you're building with:
 <!-- Connect With Me -->
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/ee02c3d9-fa98-4a6d-aa76-63c699254779" alt="xero-code" width="320"/>
 
   <p align="center">
   <p align="center">
@@ -121,9 +138,6 @@ If you're building with:
   <img src="https://komarev.com/ghpvc/?username=Rashmiranjan07&label=Profile+Views&color=brightgreen&style=flat"/>
 </p>
 
-
-
----
 
 
 
