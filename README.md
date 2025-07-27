@@ -54,11 +54,14 @@ If you're building with:
 <!-- Connect With Me -->
 
 <div align="center">
-<p align="center">
-  <a href="mailto:heyyrashmiranjan02@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="50"/></a>
-  <a href="https://github.com/Rashmiranjan07" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="50"/></a>
-  <a href="https://www.linkedin.com/in/rashmiranjan-shaw-8333a532a/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="50"/></a>
-  <a href="https://www.instagram.com/hyy_rashhh/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="50"/></a>
+  <img src="https://github.com/user-attachments/assets/ee02c3d9-fa98-4a6d-aa76-63c699254779" alt="xero-code" width="320"/>
+
+  <p align="center">
+  <p align="center">
+  <a href="mailto:heyyrashmiranjan02@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+  <a href="https://github.com/Rashmiranjan07" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
+  <a href="https://www.linkedin.com/in/rashmiranjan-shaw-8333a532a/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="https://www.instagram.com/hyy_rashhh/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
 </p>
 </div>
 
@@ -121,18 +124,8 @@ If you're building with:
 
 
 ---
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/3eef7276-306e-4d3e-b406-1c8615163246" alt="xero-code" width="300"/>
 
-  <p align="center">
-  <p align="center">
-  <a href="mailto:heyyrashmiranjan02@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
-  <a href="https://github.com/Rashmiranjan07" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
-  <a href="https://www.linkedin.com/in/rashmiranjan-shaw-8333a532a/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="https://www.instagram.com/hyy_rashhh/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
-</p>
-  </p>
-</div>
+
 
 
 
