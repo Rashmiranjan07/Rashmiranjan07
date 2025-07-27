@@ -27,7 +27,6 @@
   <tr>
    <td align="left" valign="top" width="60%" style="padding: 20px;">
       <div style="border: 1px solid #e0e0e0; border-radius: 10px; padding: 20px;">
-        <h3>👋 About Me</h3>
         <ul>
           <li>🎓 I'm a B-Tech undergraduate student in Computer Science.</li>
           <li>🚀 A tech enthusiast who loves exploring the world of programming.</li>
