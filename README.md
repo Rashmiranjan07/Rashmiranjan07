@@ -52,7 +52,6 @@ If you're building with:
 ## 📫 Connect With Me
 
 <!-- Connect With Me -->
-<h2 align="center">📫 Connect With Me</h2>
 
 <div align="center">
 <p align="center">
