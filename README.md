@@ -27,7 +27,7 @@
       <td align="left" valign="top" style="padding: 20px;">
         <div style="width: 100%; box-sizing: border-box; border: 1px solid #e0e0e0; border-radius: 10px; padding: 20px;">
           <ul>
-               <h3> 🧑‍💻 About Me</h3>
+               <h2> 🧑‍💻 About Me</h2>
             <li>🎓 I'm a B-Tech undergraduate student in Computer Science.</li>
             <li>🚀 A tech enthusiast who loves exploring the world of programming.</li>
             <li>🌱 Currently diving deeper into <strong>Java-Full Stack</strong>.</li>
