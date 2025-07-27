@@ -50,6 +50,14 @@ If you're building with:
 ---
 
 ## 📫 Connect With Me
+
+<!-- Connect With Me -->
+<h2 align="center">📫 Connect With Me</h2>
+ <!-- Banner Image -->
+<div align="center">
+  <img src="https://i.imgur.com/bXxIgrd.png" alt="Banner" width="350"/>
+</div>
+
 <div align="center">
 <p align="center">
   <a href="mailto:heyyrashmiranjan02@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="50"/></a>
@@ -118,5 +126,5 @@ If you're building with:
 
 
 
- 
+
 
