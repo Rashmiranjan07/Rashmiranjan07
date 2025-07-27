@@ -20,8 +20,6 @@
 
 ---
 
-## 🧑‍💻 About Me
-
 <div align="center">
   <table style="width: 100%; max-width: 900px;">
     <tr>
@@ -29,6 +27,7 @@
       <td align="left" valign="top" style="padding: 20px;">
         <div style="width: 100%; box-sizing: border-box; border: 1px solid #e0e0e0; border-radius: 10px; padding: 20px;">
           <ul>
+               <h3> 🧑‍💻 About Me</h3>
             <li>🎓 I'm a B-Tech undergraduate student in Computer Science.</li>
             <li>🚀 A tech enthusiast who loves exploring the world of programming.</li>
             <li>🌱 Currently diving deeper into <strong>Java-Full Stack</strong>.</li>
@@ -137,8 +136,5 @@ If you're building with:
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rashmiranjan07&label=Profile+Views&color=brightgreen&style=flat"/>
 </p>
-
-
-
 
 
