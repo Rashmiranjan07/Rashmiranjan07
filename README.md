@@ -19,15 +19,9 @@
 </p>
 
 ---
-
-<div align="center">
-  <table style="width: 100%; max-width: 900px;">
-    <tr>
-      <!-- About Me Text Section -->
-      <td align="left" valign="top" style="padding: 20px;">
-        <div style="width: 100%; box-sizing: border-box; border: 1px solid #e0e0e0; border-radius: 10px; padding: 20px;">
-          <ul>
-               <h2> 🧑‍💻 About Me</h2>
+## About 
+<div>
+  <ul>    
             <li>🎓 I'm a B-Tech undergraduate student in Computer Science.</li>
             <li>🚀 A tech enthusiast who loves exploring the world of programming.</li>
             <li>🌱 Currently diving deeper into <strong>Java-Full Stack</strong>.</li>
@@ -36,14 +30,6 @@
             <li>📄 Check out my <a href="https://drive.google.com/file/d/1ADNr35887COJKRjHyEqjuBFDEqY50NiG/view" target="_blank">Resume</a>.</li>
             <li>💼 Visit my <a href="https://rashmiranjan07.github.io/Portfolio/" target="_blank">Portfolio</a>.</li>
           </ul>
-        </div>
-      </td>
-<!-- Image Section -->
-      <td align="center" valign="top" style="padding: 20px;">
-        <img src="https://github.com/user-attachments/assets/ee02c3d9-fa98-4a6d-aa76-63c699254779" alt="xero-code" width="300" style="border-radius: 10px; border: 1px solid #e0e0e0;" />
-      </td>
-   </tr>
-  </table>
 </div>
 
 
@@ -71,13 +57,16 @@ If you're building with:
 <!-- Connect With Me -->
 
 <div align="center">
+ <td align="center" valign="top" style="padding: 20px;">
+        <img src="https://github.com/user-attachments/assets/ee02c3d9-fa98-4a6d-aa76-63c699254779" alt="xero-code" width="300" style="border-radius: 10px; border: 1px solid #e0e0e0;" />
+      </td>
 
   <p align="center">
   <p align="center">
-  <a href="mailto:heyyrashmiranjan02@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
-  <a href="https://github.com/Rashmiranjan07" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
-  <a href="https://www.linkedin.com/in/rashmiranjan-shaw-8333a532a/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="https://www.instagram.com/hyy_rashhh/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
+  <a href="mailto:heyyrashmiranjan02@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="35"/></a>
+  <a href="https://github.com/Rashmiranjan07" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="35"/></a>
+  <a href="https://www.linkedin.com/in/rashmiranjan-shaw-8333a532a/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="35"/></a>
+  <a href="https://www.instagram.com/hyy_rashhh/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="35"/></a>
 </p>
 </div>
 
@@ -136,5 +125,6 @@ If you're building with:
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rashmiranjan07&label=Profile+Views&color=brightgreen&style=flat"/>
 </p>
+
 
 
