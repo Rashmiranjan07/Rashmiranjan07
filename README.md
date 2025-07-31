@@ -19,7 +19,7 @@
 </p>
 
 ---
-## About 
+## 👋About 
 <div>
   <ul>    
             <li>🎓 I'm a B-Tech undergraduate student in Computer Science.</li>
