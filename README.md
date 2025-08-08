@@ -47,7 +47,7 @@
 
 If you're building with:  
 🛠️**Java | Html | Css | Javascript | React | My SQL**  
-- Let's connect and create something cool💥.
+- Let's connect and create something cool💥
 - 📩 Drop a message or connect through links below ⬇️
 
 ---
