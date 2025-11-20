@@ -74,7 +74,6 @@ If you're building with:
 
 ## ⚡ Fun Fact
 
-> "I never stop learning – every bug is a teacher in disguise!" 🐞🚀
 
 ---
 
