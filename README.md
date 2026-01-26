@@ -31,8 +31,6 @@
             <li>💼 Visit my <a href="https://rashmiranjan07.github.io/Portfolio/" target="_blank">Portfolio</a></li>
           </ul>
 </div>
-
-
 ---
 
 ## 🔭 I'm Currently Working On
