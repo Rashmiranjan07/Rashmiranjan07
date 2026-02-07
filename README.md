@@ -99,10 +99,9 @@ If you're building with:
       </td>
       <!-- Right Box: GitHub Streak -->
       <td>
-        <img src="https://nirzak-streak-stats.vercel.app/?user=Rashmiranjan07&theme=dark&hide_border=false" 
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Rashmiranjan07&theme=dark&hide_border=false" 
              width="400" 
-             alt="GitHub Streak" />
-      </td>
+             alt="GitHub Streak" />      </td>
     </tr>
   <tr>
       <td colspan="2" align="center">
