@@ -75,6 +75,25 @@ If you're building with:
 
 <div align="center">
 
+<div align="center">
+
+  <div style="
+      display: inline-block;
+      padding: 15px;
+      border: 2px solid #cccccc;
+      border-radius: 12px;
+    ">
+
+ <img 
+      src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif"
+      alt="coding animation"
+      width="40%"
+      style="max-width:400px; height:auto; border-radius:8px;"/>
+
+  </div>
+
+</div>
+
   <p align="center">
   <p align="center">
   <a href="mailto:heyyrashmiranjan02@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="35"/></a>
@@ -139,7 +158,7 @@ If you're building with:
   <img src="https://komarev.com/ghpvc/?username=Rashmiranjan07&label=Profile+Views&color=brightgreen&style=flat"/>
 </p>
 
----
+
 
 
 
