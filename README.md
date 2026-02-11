@@ -153,13 +153,3 @@ If you're building with:
 <p align="center">Like the content !!! </p>
 <p align="center">Please give a ⭐ to the repository you like 😁</p>
 
----
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rashmiranjan07&label=Profile+Views&color=brightgreen&style=flat"/>
-</p>
-
-
-
-
-
-
