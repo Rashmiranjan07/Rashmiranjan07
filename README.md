@@ -21,18 +21,35 @@
 
 ---
 
-## 👋About 
-<div>
-  <ul>    
-            <li>🎓 I'm a B-Tech undergraduate student in Computer Science.</li>
-            <li>🚀 A tech enthusiast who loves exploring the world of programming.</li>
-            <li>🌱 Currently diving deeper into <strong>Java-Full Stack</strong>.</li>
-            <li>💡 I enjoy building creative, scalable, and clean user-centric software.</li>
-            <li>🧠 Always upskilling and staying updated with new technologies.</li>
-            <li>📄 Check out my <a href="https://drive.google.com/file/d/1ADNr35887COJKRjHyEqjuBFDEqY50NiG/view" target="_blank">Resume</a></li>
-            <li>💼 Visit my <a href="https://rashmiranjan07.github.io/Portfolio/" target="_blank">Portfolio</a></li>
-          </ul>
+## 👋 About Me
+
+<table width="100%">
+  <tr>
+    <td width="60%" valign="middle">
+
+<div align="center">
+
+<ul align="left" style="display:inline-block; text-align:left;">
+  <li>🎓 I'm a B-Tech undergraduate student in Computer Science.</li>
+  <li>🚀 A tech enthusiast who loves exploring the world of programming.</li>
+  <li>🌱 Currently diving deeper into <strong>Java-Full Stack</strong>.</li>
+  <li>💡 I enjoy building creative, scalable, and clean user-centric software.</li>
+  <li>🧠 Always upskilling and staying updated with new technologies.</li>
+  <li>📄 Check out my <a href="https://drive.google.com/file/d/1ADNr35887COJKRjHyEqjuBFDEqY50NiG/view" target="_blank">Resume</a></li>
+  <li>💼 Visit my <a href="https://rashmiranjan07.github.io/Portfolio/" target="_blank">Portfolio</a></li>
+</ul>
+
 </div>
+    </td>
+   <td width="40%" align="center" valign="middle">
+      <img 
+        src="https://github.com/user-attachments/assets/ee02c3d9-fa98-4a6d-aa76-63c699254779"
+        alt="xero-code"
+        width="100%"
+        style="max-width:300px; border-radius:10px;"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -57,9 +74,6 @@ If you're building with:
 <!-- Connect With Me -->
 
 <div align="center">
- <td align="center" valign="top" style="padding: 20px;">
-        <img src="https://github.com/user-attachments/assets/ee02c3d9-fa98-4a6d-aa76-63c699254779" alt="xero-code" width="300" style="border-radius: 10px; border: 1px solid #e0e0e0;" />
-      </td>
 
   <p align="center">
   <p align="center">
@@ -124,4 +138,11 @@ If you're building with:
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rashmiranjan07&label=Profile+Views&color=brightgreen&style=flat"/>
 </p>
+
+---
+
+
+
+
+
 
