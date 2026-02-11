@@ -20,6 +20,7 @@
 </p>
 
 ---
+
 ## 👋About 
 <div>
   <ul>    
@@ -32,6 +33,7 @@
             <li>💼 Visit my <a href="https://rashmiranjan07.github.io/Portfolio/" target="_blank">Portfolio</a></li>
           </ul>
 </div>
+
 ---
 
 ## 🔭 I'm Currently Working On
@@ -93,11 +95,11 @@ If you're building with:
   <table>
     <tr>
       <!-- Left Box: GitHub Stats -->
-      <td>
+     <!--  <td>
         <img src="https://github-readme-stats.vercel.app/api?username=Rashmiranjan07&theme=dark&hide_border=false&include_all_commits=true&count_private=true" 
              width="400" 
              alt="GitHub Stats" />
-      </td>
+      </td> -->
       <!-- Right Box: GitHub Streak -->
       <td>
   <img src="https://nirzak-streak-stats.vercel.app/?user=Rashmiranjan07&theme=dark&hide_border=false" 
@@ -105,10 +107,10 @@ If you're building with:
              alt="GitHub Streak" />      </td>
     </tr>
   <tr>
-      <td colspan="2" align="center">
+     <!--   <td colspan="2" align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rashmiranjan07&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" 
              width="300" 
-             alt="Top Languages" />
+             alt="Top Languages" />-->
       </td>
     </tr>
   </table>
