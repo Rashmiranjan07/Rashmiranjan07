@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,50:004e92,100:00c6ff&height=220&section=header&text=%20Welcome%20to%20my%20GitHub&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40" style="width:100%;" />
+   
+</p>
 <h1 align="center">👋 Hi, I'm Rashmiranjan Shaw</h1>
 
 <h3 align="center">
@@ -152,6 +156,8 @@ If you're building with:
 <p align="center">Like the content !!! </p>
 <p align="center">Please give a ⭐ to the repository you like 😁</p>
 
-
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,50:004e92,100:00c6ff&height=120&section=footer" style="width:100%;" />
+</p>
 
 
