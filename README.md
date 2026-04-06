@@ -33,13 +33,7 @@
 <div align="center">
 
 <ul align="left" style="display:inline-block; text-align:left;">
-  <!-- <li>🎓 I'm a B-Tech undergraduate student in Computer Science.</li>
-  <li>🚀 A tech enthusiast who loves exploring the world of programming.</li>
-  <li>🌱 Currently diving deeper into <strong>Java-Full Stack</strong>.</li>
-  <li>💡 I enjoy building creative, scalable, and clean user-centric software.</li>
-  <li>🧠 Always upskilling and staying updated with new technologies.</li>
-  <li>📄 Check out my <a href="https://drive.google.com/file/d/1ADNr35887COJKRjHyEqjuBFDEqY50NiG/view" target="_blank">Resume</a></li>
-  <li>💼 Visit my <a href="https://rashmiranjan07.github.io/Portfolio/" target="_blank">Portfolio</a></li> -->
+  
    Computer Science undergraduate specializing in Java Full-Stack development with a focus on scalable systems and clean architecture.
 Enthusiastic about building efficient, user-centric applications and continuously exploring modern technologies to enhance development skills.
 </ul>
@@ -47,12 +41,13 @@ Enthusiastic about building efficient, user-centric applications and continuousl
 </div>
     </td>
    <td width="40%" align="center" valign="middle">
-      <img 
-        src="https://github.com/user-attachments/assets/ee02c3d9-fa98-4a6d-aa76-63c699254779"
-        alt="xero-code"
-        width="100%"
-        style="max-width:300px; border-radius:10px;"/>
-    </td>
+<img 
+  src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif"
+  alt="coding-animation"
+  width="100%"
+  style="max-width:280px; border-radius:12px;"
+/>
+ </td>
   </tr>
 </table>
 
@@ -165,4 +160,40 @@ If you're building with:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,50:004e92,100:00c6ff&height=120&section=footer" style="width:100%;" />
 </p>
 
+---
 
+## 👋 About Me
+
+<table width="100%" cellpadding="10" cellspacing="0">
+  <tr>
+
+    <!-- LEFT CONTENT -->
+    <td width="60%" valign="middle">
+
+<div align="left">
+
+<p style="font-size:16px; line-height:1.6;">
+
+Computer Science undergraduate specializing in <strong>Java Full-Stack development</strong> with a focus on scalable systems and clean architecture.  
+Passionate about building efficient, user-centric applications and continuously exploring modern technologies to enhance development skills.
+
+</p>
+
+</div>
+
+ </td>
+
+    <!-- RIGHT GIF -->
+   <td width="40%" align="center" valign="middle">
+
+<img 
+  src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmpld2wxNTBodTN3a3VjMDc5MDBrczJzaXZjb3Nuamhsa243MDRoOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sDxVzsDgLo3rLQzVlc/giphy.gif"
+  alt="coding-gif"
+  width="90%"
+  style="max-width:280px; border-radius:12px; object-fit:cover;"
+/>
+
+   </td>
+
+  </tr>
+</table>
