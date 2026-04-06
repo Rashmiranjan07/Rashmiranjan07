@@ -33,13 +33,15 @@
 <div align="center">
 
 <ul align="left" style="display:inline-block; text-align:left;">
-  <li>🎓 I'm a B-Tech undergraduate student in Computer Science.</li>
+  <!-- <li>🎓 I'm a B-Tech undergraduate student in Computer Science.</li>
   <li>🚀 A tech enthusiast who loves exploring the world of programming.</li>
   <li>🌱 Currently diving deeper into <strong>Java-Full Stack</strong>.</li>
   <li>💡 I enjoy building creative, scalable, and clean user-centric software.</li>
   <li>🧠 Always upskilling and staying updated with new technologies.</li>
   <li>📄 Check out my <a href="https://drive.google.com/file/d/1ADNr35887COJKRjHyEqjuBFDEqY50NiG/view" target="_blank">Resume</a></li>
-  <li>💼 Visit my <a href="https://rashmiranjan07.github.io/Portfolio/" target="_blank">Portfolio</a></li>
+  <li>💼 Visit my <a href="https://rashmiranjan07.github.io/Portfolio/" target="_blank">Portfolio</a></li> -->
+   Computer Science undergraduate specializing in Java Full-Stack development with a focus on scalable systems and clean architecture.
+Enthusiastic about building efficient, user-centric applications and continuously exploring modern technologies to enhance development skills.
 </ul>
 
 </div>
