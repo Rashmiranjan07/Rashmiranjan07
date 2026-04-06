@@ -137,10 +137,13 @@ If you're building with:
              alt="GitHub Stats" />
       </td> -->
       <!-- Right Box: GitHub Streak -->
-      <td>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Rashmiranjan07&theme=dark&hide_border=false" 
-             width="400" 
-             alt="GitHub Streak" />      </td>
+    <td>
+  <img 
+    src="https://streak-stats.demolab.com?user=Rashmiranjan07&theme=dark&hide_border=false"
+    width="400"
+    alt="GitHub Streak"
+  />
+</td>
     </tr>
   <tr>
      <!--   <td colspan="2" align="center">
