@@ -35,8 +35,7 @@
 
 <p style="color:#c9d1d9; font-size:15px; line-height:1.6;">
 
-Computer Science undergraduate specializing in <strong>Java Full-Stack development</strong> with a focus on scalable systems and clean architecture.<br><br>
-
+Computer Science undergraduate specializing in <strong>Java Full-Stack development</strong> with a focus on scalable systems and clean architecture.
 Passionate about building efficient, user-centric applications and continuously exploring modern technologies to enhance development skills.
 
 </p>
