@@ -96,7 +96,7 @@ If you're building with:
 ## 🛠️ Tools & Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,html,css,js,java,react,mysql,git,github,vscode,idea,eclipse,netlify,vercel" />
+  <img src="https://skillicons.dev/icons?i=c,html,css,js,bootstrap,java,react,mysql,git,github,vscode,idea,eclipse,netlify,vercel" />
 </p>
 
 ---
