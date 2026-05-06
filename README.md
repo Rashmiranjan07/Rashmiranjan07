@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,50:004e92,100:00c6ff&height=150&section=header&text=%20Welcome%20to%20my%20GitHub&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" />
 </p>
 
-<h1 align="center">👋 Hi, I'm Rashmiranjan Shaw</h1>
+<h1 align="center">👋 Hi, I'm Rashmiranjan Shaw </h1>
 
 <h3 align="center">
   🚀 Passionate Web Developer &nbsp;|&nbsp; 🎓 B.Tech Undergraduate &nbsp;|&nbsp; 🖥️ Tech Enthusiast
