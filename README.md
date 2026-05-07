@@ -89,7 +89,7 @@ If you're building with:
 
 ## ⚡ Fun Fact
 
-> "I never stop learning – every bug is a teacher in disguise!" 🐞🚀
+> "I never stop learning – every bug is a teacher in disguise!" 🐞🦸
 
 ---
 
@@ -115,9 +115,7 @@ If you're building with:
     </td>
   </tr>
 </table>
-
 </div>
-
 ---
 
 <p align="center">Like the content !!!</p>
