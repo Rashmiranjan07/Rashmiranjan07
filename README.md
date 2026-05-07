@@ -74,7 +74,7 @@ If you're building with:
 
 ---
 
-## 📫 Connect With Me
+## 📫 Connect With 
 
 <div align="center">
 
