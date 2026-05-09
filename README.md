@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,50:004e92,100:00c6ff&height=150&section=header&text=%20Welcome%20to%20my%20GitHub&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,50:004e92,100:00c6ff&height=150&section=header&text=Welcome%20to%20my%20GitHub&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" />
 </p>
 
-<h1 align="center">👋 Hi, I'm Rashmiranjan Shaw </h1>
+<h1 align="center">👋 Hi, I'm Rashmiranjan Shaw</h1>
 
 <h3 align="center">
-  🚀 Passionate Web Developer &nbsp;|&nbsp; 🎓 B.Tech Undergraduate &nbsp;|&nbsp; 🖥️ Tech Enthusiast
+  🚀 Passionate Full-Stack Developer &nbsp;|&nbsp; 🎓 B.Tech Undergraduate &nbsp;|&nbsp; 🖥️ Tech Enthusiast
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=25&pause=100&width=500&center=true&vCenter=true&lines=Web+Developer;B.Tech+Undergraduate;Exploring+Code+%26+Creativity..." />
+  <img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=25&pause=1000&width=500&center=true&vCenter=true&lines=Full-Stack+Developer;Java+Enthusiast;Exploring+Code+%26+Creativity..." />
 </p>
 
 <p align="center">
@@ -17,31 +17,26 @@
   <img src="https://img.shields.io/github/stars/Rashmiranjan07?label=Stars&style=social" />
   <img src="https://img.shields.io/badge/Cinephile-%F0%9F%8E%AC-blueviolet" />
   <img src="https://img.shields.io/badge/Photophile-%F0%9F%93%B8-lightblue" />
-  <img src="https://img.shields.io/badge/B--Tech%20Grad-8.84%20CGPA-success" />
+  <img src="https://img.shields.io/badge/B.Tech%20CGPA-8.84-success" />
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Rashmiranjan07" />
 </p>
 
 ---
 
-<table width="100%" style="border:1px solid #2f3b52; border-radius:10px; background-color:#0d1117;">
-  <tr>
+<table width="100%">
+<tr>
 
+<td width="60%" valign="top">
 
-   <td width="60%" valign="top" style="padding:20px;">
+## 🧑‍💻 Summary
 
-<h3 style="color:#c9d1d9;">
-  🧑‍💻 <strong>Summary</strong>
-</h3>
+Computer Science undergraduate specializing in **Java Full-Stack Development** with a strong focus on scalable applications and clean architecture.
 
-<p style="color:#c9d1d9; font-size:15px; line-height:1.6;">
+Passionate about building efficient, user-centric solutions while continuously exploring modern technologies to enhance development skills and problem-solving abilities.
 
-Computer Science undergraduate specializing in <strong>Java Full-Stack development</strong> with a focus on scalable systems and clean architecture.
-Passionate about building efficient, user-centric applications and continuously exploring modern technologies to enhance development skills & knowledge .
+</td>
 
-</p>
-
-   </td>
-   <td width="40%" align="center" valign="middle" style="padding:20px;">
+<td width="40%" align="center">
 
 <img 
   src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif"
@@ -50,38 +45,52 @@ Passionate about building efficient, user-centric applications and continuously 
   style="max-width:280px; border-radius:10px;"
 />
 
-   </td>
+</td>
 
-  </tr>
+</tr>
 </table>
 
 ---
 
-## 🔭 I'm Currently Working On
+## 🔭 Currently Working On
 
-- 🌐 Full-stack projects with **Java**
-- 🧠 Deepening expertise in **Java Full Stack** and **Backend APIs**
+- 🌐 Full-Stack Projects using **Java**
+- ⚡ Backend Development & REST APIs
+- 🧠 Improving Problem Solving & DSA Skills
+- 🚀 Exploring Modern Web Technologies
 
 ---
 
 ## 🤝 Let's Collaborate
 
-If you're building with:  
+Interested in collaborating on projects related to:
+
 🛠️ **Java | HTML | CSS | JavaScript | React | MySQL**
 
-- Let's connect and create something cool 💥  
-- 📩 Reach out via links below ⬇️  
+- Open to teamwork and innovative ideas 💡
+- Let's build something impactful together 🚀
 
 ---
 
-## 📫 Connect With 
+## 📫 Connect With Me
 
 <div align="center">
 
-<a href="mailto:heyyrashmiranjan02@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="35"/></a>
-<a href="https://github.com/Rashmiranjan07"><img src="https://skillicons.dev/icons?i=github" height="35"/></a>
-<a href="https://www.linkedin.com/in/rashmiranjan-shaw-8333a532a/"><img src="https://skillicons.dev/icons?i=linkedin" height="35"/></a>
-<a href="https://www.instagram.com/hyy_rashhh/"><img src="https://skillicons.dev/icons?i=instagram" height="35"/></a>
+<a href="mailto:heyyrashmiranjan02@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="35"/>
+</a>
+
+<a href="https://github.com/Rashmiranjan07">
+  <img src="https://skillicons.dev/icons?i=github" height="35"/>
+</a>
+
+<a href="https://www.linkedin.com/in/rashmiranjan-shaw-8333a532a/">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="35"/>
+</a>
+
+<a href="https://www.instagram.com/hyy_rashhh/">
+  <img src="https://skillicons.dev/icons?i=instagram" height="35"/>
+</a>
 
 </div>
 
@@ -89,11 +98,11 @@ If you're building with:
 
 ## ⚡ Fun Fact
 
-> "I never stop learning – every bug is a teacher in disguise!" 🐞🦸
+> "I never stop learning — every bug is a teacher in disguise!" 🐞✨
 
 ---
 
-## 🛠️ Tools & Tech Stack
+## 🛠️ Tech Stack & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,html,css,js,bootstrap,java,react,mysql,git,github,vscode,idea,eclipse,netlify,vercel" />
@@ -101,29 +110,23 @@ If you're building with:
 
 ---
 
-## 📊 GitHub Stats & Streaks
+## 📊 GitHub Stats & Streak
 
 <div align="center">
 
-<table>
-  <tr>
-    <td>
-      <img 
-        src="https://streak-stats.demolab.com?user=Rashmiranjan07&theme=dark&hide_border=false"
-        width="400"
-      />
-    </td>
-  </tr>
-</table>
+<img 
+  src="https://streak-stats.demolab.com?user=Rashmiranjan07&theme=dark&hide_border=false"
+  width="400"
+/>
+
 </div>
+
 ---
 
-<p align="center">Like the content !!!</p>
-<p align="center">Please give ⭐ to the repository you like 😁</p>
+<p align="center">
+  ⭐ If you like my projects, consider giving them a star!
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,50:004e92,100:00c6ff&height=120&section=footer" width="100%" />
 </p>
-
-
-
