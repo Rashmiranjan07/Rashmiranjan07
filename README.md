@@ -25,7 +25,6 @@
 
 <table width="100%">
 <tr>
-
 <td width="60%" valign="top">
 
 ## 🧑‍💻 Summary
@@ -42,8 +41,7 @@ Passionate about building efficient, user-centric solutions while continuously e
   src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif"
   alt="coding-animation"
   width="100%"
-  style="max-width:280px; border-radius:10px;"
-/>
+  style="max-width:280px; border-radius:10px;"/>
 
 </td>
 
