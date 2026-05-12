@@ -96,7 +96,7 @@ Interested in collaborating on projects related to:
 
 ## ⚡ Fun Fact
 
-> "I never stop learning — every bug is a teacher in disguise!" 🐞✨
+> "I never stop learning — every bug is a teacher in disguise!" 🐞
 
 ---
 
