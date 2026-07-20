@@ -8,7 +8,6 @@
   🚀 Passionate Full-Stack Developer &nbsp;|&nbsp; 🎓 B.Tech Undergraduate &nbsp;|&nbsp; 🖥️ Tech Enthusiast
 </h3>
 
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=25&pause=1000&width=500&center=true&vCenter=true&lines=Full-Stack+Developer;Java+Enthusiast;Exploring+Code+%26+Creativity..." />
 </p>
