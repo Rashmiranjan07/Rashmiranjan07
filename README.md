@@ -61,7 +61,13 @@ Passionate about building efficient, user-centric solutions while continuously e
 
 <table width="100%">
 <tr>
-<td align="center">
+<td>
+
+<table width="100%">
+<tr>
+<td width="8%"></td>
+
+<td width="84%">
 
 ### 🚀 Q Spider
 
@@ -77,6 +83,12 @@ Passionate about building efficient, user-centric solutions while continuously e
 - ☕ Developed full-stack web applications using **Java, Spring Boot, and SQL**
 - 🔧 Worked on **backend development, REST APIs, and application logic**
 - 🚀 Gained hands-on experience with **real-world projects, debugging, and deployment workflows**
+
+</td>
+
+<td width="8%"></td>
+</tr>
+</table>
 
 </td>
 </tr>
