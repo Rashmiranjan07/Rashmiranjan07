@@ -57,12 +57,11 @@ Passionate about building efficient, user-centric solutions while continuously e
 
 
 ---
-
 ## 🏢 Experience
 
 <table width="100%">
 <tr>
-<td width="100%">
+<td align="center">
 
 ### 🚀 Q Spider
 
