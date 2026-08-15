@@ -61,7 +61,7 @@ Passionate about building efficient, user-centric solutions while continuously e
 
 <table width="100%">
 <tr>
-<td width="100%">
+<td width="60%">
 
 ### 🚀 Q Spider
 
@@ -79,17 +79,19 @@ Passionate about building efficient, user-centric solutions while continuously e
 - 🚀 Gained hands-on experience with **real-world projects, debugging, and deployment workflows**
 
 </td>
-</tr>
-</table>
 
----
+<td width="40%">
 
-## 🔭 Currently Working On
+### 🔭 Currently Working On
 
 - 🌐 Full-Stack Projects using **Java**
 - ⚡ Backend Development & REST APIs
 - 🧠 Improving Problem Solving & DSA Skills
 - 🚀 Exploring Modern Web Technologies
+
+</td>
+</tr>
+</table>
 
 ---
 
