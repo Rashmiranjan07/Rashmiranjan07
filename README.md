@@ -58,12 +58,9 @@ Passionate about building efficient, user-centric solutions while continuously e
 
 ---
 
-
-
-
 ## 🏢 Experience
 
-<table>
+<table width="100%">
 <tr>
 <td width="100%">
 
