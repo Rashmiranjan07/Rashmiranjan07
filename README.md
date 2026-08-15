@@ -129,3 +129,33 @@ Interested in collaborating on projects related to:
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,50:004e92,100:00c6ff&height=120&section=footer" width="100%" />
 </p>
 
+
+
+---
+
+
+## 🏢 Experience
+
+<table>
+<tr>
+<td width="100%">
+
+### 🚀 Q Spider
+
+**Java Full Stack Developer**
+
+📅 **July 2025 – March 2026**
+
+<p>
+<img src="https://img.shields.io/badge/Role-Java%20Full%20Stack%20Developer-blue" />
+<img src="https://img.shields.io/badge/Work-Intern%20%2F%20Trainee-orange" />
+</p>
+
+- ☕ Developed full-stack web applications using **Java, Spring Boot, and SQL**
+- 🔧 Worked on **backend development, REST APIs, and application logic**
+- 🚀 Gained hands-on experience with **real-world projects, debugging, and deployment workflows**
+
+</td>
+</tr>
+</table>
+
