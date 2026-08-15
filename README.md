@@ -91,13 +91,21 @@ Passionate about building efficient, user-centric solutions while continuously e
 
 <br>
 
+<table align="center">
+<tr>
+<td>
 <a href="https://leetcode.com/u/Rashmiranjan07/">
-  <img src="https://img.shields.io/badge/LeetCode-Profile-black?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile"/>
+<img src="https://img.shields.io/badge/LeetCode-black?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"/>
 </a>
+</td>
 
+<td>
 <a href="https://github.com/Rashmiranjan07/">
-  <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=black" alt="GitHub Profile"/>
+<img src="https://img.shields.io/badge/GitHub%20Repo-black?style=flat-square&logo=github&logoColor=white" alt="GitHub Repo"/>
 </a>
+</td>
+</tr>
+</table>
 
 </td>
 </tr>
