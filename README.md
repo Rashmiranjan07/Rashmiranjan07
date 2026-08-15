@@ -49,6 +49,44 @@ Passionate about building efficient, user-centric solutions while continuously e
 </table>
 
 ---
+## 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,html,css,js,bootstrap,java,react,mysql,git,github,vscode,idea,eclipse,netlify,vercel" />
+</p>
+
+
+---
+
+
+
+
+## 🏢 Experience
+
+<table>
+<tr>
+<td width="100%">
+
+### 🚀 Q Spider
+
+**Java Full Stack Developer**
+
+📅 **July 2025 – March 2026**
+
+<p>
+<img src="https://img.shields.io/badge/Role-Java%20Full%20Stack%20Developer-blue" />
+<img src="https://img.shields.io/badge/Work-Intern%20%2F%20Trainee-orange" />
+</p>
+
+- ☕ Developed full-stack web applications using **Java, Spring Boot, and SQL**
+- 🔧 Worked on **backend development, REST APIs, and application logic**
+- 🚀 Gained hands-on experience with **real-world projects, debugging, and deployment workflows**
+
+</td>
+</tr>
+</table>
+
+---
 
 ## 🔭 Currently Working On
 
@@ -100,13 +138,6 @@ Interested in collaborating on projects related to:
 
 ---
 
-## 🛠️ Tech Stack & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,html,css,js,bootstrap,java,react,mysql,git,github,vscode,idea,eclipse,netlify,vercel" />
-</p>
-
----
 
 ## 📊 GitHub Stats & Streak
 
@@ -131,31 +162,4 @@ Interested in collaborating on projects related to:
 
 
 
----
-
-
-## 🏢 Experience
-
-<table>
-<tr>
-<td width="100%">
-
-### 🚀 Q Spider
-
-**Java Full Stack Developer**
-
-📅 **July 2025 – March 2026**
-
-<p>
-<img src="https://img.shields.io/badge/Role-Java%20Full%20Stack%20Developer-blue" />
-<img src="https://img.shields.io/badge/Work-Intern%20%2F%20Trainee-orange" />
-</p>
-
-- ☕ Developed full-stack web applications using **Java, Spring Boot, and SQL**
-- 🔧 Worked on **backend development, REST APIs, and application logic**
-- 🚀 Gained hands-on experience with **real-world projects, debugging, and deployment workflows**
-
-</td>
-</tr>
-</table>
 
