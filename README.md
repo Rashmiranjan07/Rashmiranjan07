@@ -124,6 +124,28 @@ Interested in collaborating on projects related to:
 
 ---
 
+### 📫 Connect With Me
+
+<p align="center">
+<a href="mailto:heyyrashmiranjan02@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/Rashmiranjan07">
+<img src="https://skillicons.dev/icons?i=github" height="40"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/rashmiranjan-shaw-8333a532a/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.instagram.com/hyy_rashhh/">
+<img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+</a>
+</p>
+
+---
+
 ## ⚡ Fun Fact
 
 > "I never stop learning — every bug is a teacher in disguise!" 🐞💫
