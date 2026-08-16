@@ -124,7 +124,7 @@ Interested in collaborating on projects related to:
 
 ---
 
-### 📫 Connect With Me
+## 📫 Connect With Me
 
 <p align="center">
 <a href="mailto:heyyrashmiranjan02@gmail.com">
