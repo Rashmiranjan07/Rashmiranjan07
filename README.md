@@ -174,6 +174,3 @@ Interested in collaborating on projects related to:
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,50:004e92,100:00c6ff&height=120&section=footer" width="100%" />
 </p>
 
-
-
-
