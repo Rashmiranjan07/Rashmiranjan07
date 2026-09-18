@@ -122,10 +122,12 @@ Passionate about building efficient, user-centric solutions while continuously e
 
 Interested in collaborating on projects related to:
 
-🛠️ **Java | HTML | CSS | JavaScript | React | MySQL**
+🛠️ **Java | Spring Boot | REST APIs | Spring Data JPA | MySQL | Backend Development**
 
-- Open to teamwork and innovative ideas 💡
-- Let's build something impactful together 🚀
+- Building scalable and secure backend applications 🚀
+- Developing RESTful APIs and database-driven systems 🔧
+- Open to teamwork, learning, and innovative ideas 💡
+- Let's build reliable and impactful software together!
 
 ---
 
