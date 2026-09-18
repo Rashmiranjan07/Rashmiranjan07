@@ -104,6 +104,11 @@ Passionate about building efficient, user-centric solutions while continuously e
 <img src="https://img.shields.io/badge/GitHub%20Repo-black?style=flat-square&logo=github&logoColor=white" alt="GitHub Repo"/>
 </a>
 </td>
+<td>
+  <a href="https://codolio.com/profile/Rashmiranjan">
+    <img src="https://img.shields.io/badge/Codolio-black?style=flat-square&logoColor=white" alt="Codolio"/>
+  </a> 
+</td>
 </tr>
 </table>
 
