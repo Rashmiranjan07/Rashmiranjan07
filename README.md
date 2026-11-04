@@ -15,8 +15,8 @@
 <p align="center">
   <img src="https://img.shields.io/github/followers/Rashmiranjan07?label=Followers&style=social" />
   <img src="https://img.shields.io/github/stars/Rashmiranjan07?label=Stars&style=social" />
-  <img src="https://img.shields.io/badge/Cinephile-%F0%9F%8E%AC-blueviolet" />
-  <img src="https://img.shields.io/badge/Photophile-%F0%9F%93%B8-lightblue" />
+  <!-- <img src="https://img.shields.io/badge/Cinephile-%F0%9F%8E%AC-blueviolet" />
+  <img src="https://img.shields.io/badge/Photophile-%F0%9F%93%B8-lightblue" /> -->
   <img src="https://img.shields.io/badge/B.Tech%20CGPA-8.84-success" />
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Rashmiranjan07" />
 </p>
