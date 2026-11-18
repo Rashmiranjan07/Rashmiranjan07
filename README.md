@@ -1,13 +1,10 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,50:004e92,100:00c6ff&height=150&section=header&text=Welcome%20to%20my%20GitHub&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" />
 </p>
-
 <h1 align="center">👋 Hi, I'm Rashmiranjan Shaw</h1>
-
 <h3 align="center">
   🚀 Passionate Full-Stack Developer &nbsp;|&nbsp; 🎓 B.Tech Undergraduate &nbsp;|&nbsp; 🖥️ Tech Enthusiast
 </h3>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=25&pause=1000&width=500&center=true&vCenter=true&lines=Full-Stack+Developer;Java+Enthusiast;Exploring+Code+%26+Creativity..." />
 </p>
